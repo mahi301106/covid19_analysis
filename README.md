@@ -46,7 +46,7 @@ This chart shows how daily COVID-19 cases changed over time for selected countri
 
 A rolling average smooths fluctuations and highlights major infection waves.
 
-![Rolling Average](images/rolling_average.png)
+![Rolling Average](rolling_average.png)
 
 ---
 
@@ -54,7 +54,7 @@ A rolling average smooths fluctuations and highlights major infection waves.
 
 This bar chart compares the highest number of daily cases recorded in each selected country.
 
-![Peak Cases](images/peak_cases.png)
+![Peak Cases](peak_cases.png)
 
 ---
 
@@ -62,7 +62,7 @@ This bar chart compares the highest number of daily cases recorded in each selec
 
 This visualization compares the total number of COVID-19 cases across selected countries.
 
-![Total Cases](images/total_cases.png)
+![Total Cases](total_cases.png)
 
 ---
 
@@ -70,7 +70,7 @@ This visualization compares the total number of COVID-19 cases across selected c
 
 This chart shows the calculated death rate based on total deaths and total cases.
 
-![Death Rate](images/death_rate.png)
+![Death Rate](death_rate.png)
 
 ---
 
