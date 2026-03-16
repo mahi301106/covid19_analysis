@@ -99,20 +99,6 @@ The following analyses were performed in this project:
 
 ---
 
-## Visualizations Included
-
-The project includes multiple visualizations such as:
-
-- Line charts showing daily COVID-19 case trends  
-- Rolling average trend graphs  
-- Bar charts comparing peak cases across countries  
-- Total case comparisons  
-- Death rate analysis charts  
-- Correlation heatmap  
-- Distribution plots  
-
----
-
 ## Key Insights
 
 - COVID-19 cases occurred in multiple waves across different countries.  
